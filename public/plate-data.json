@@ -1,0 +1,35 @@
+[
+  {
+    "code": 123456,
+    "city": "DXB",
+    "availability": "Current",
+    "type": "private",
+    "prefix": 1,
+    "number": 5,
+    "suffix": 0,
+    "color": "white",
+    "vector": null
+  },
+  {
+    "code": 654321,
+    "city": "AUH",
+    "availability": "Current",
+    "type": "private",
+    "prefix": 2,
+    "number": 4,
+    "suffix": 0,
+    "color": "red",
+    "vector": 123456789
+  },
+  {
+    "code": 123478,
+    "city": "DXB",
+    "availability": "Current",
+    "type": "police",
+    "prefix": 1,
+    "number": 5,
+    "suffix": 0,
+    "color": "white",
+    "vector": null
+  }
+]
